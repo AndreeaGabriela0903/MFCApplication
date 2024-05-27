@@ -109,10 +109,6 @@ void CMFCApplicationDlg::OnBnClickedButtonRun()
 
 void CMFCApplicationDlg::OnEnChangeEditOutput()
 {
-    // TODO:  If this is a RICHEDIT control, the control will not
-    // send this notification unless you override the CDialogEx::OnInitDialog()
-    // function and call CRichEditCtrl().SetEventMask()
-    // with the ENM_CHANGE flag ORed into the mask.
 
-    // TODO:  Add your control notification handler code here
+   
 }
